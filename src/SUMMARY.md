@@ -1,0 +1,17 @@
+# Summary
+
+- [Introduction](./01_Introduction.md)
+- [Setting up Dev Environment](./02_Development.md)
+  - [Setting up local registry](./02_01_Local_Registry.md)
+- [Scaffolding Manifest Files](./03_00_Scaffolding.md)
+  - [Understanding kubekutr config](./03_01_kubekutr_config.md)
+  - [Generating base manifests](./03_02_generate_base.md)
+- [Kustomize the Manifests](./04_00_Kustomize.md)
+  - [Creating Overlays](./04_01_Kustomize_Overlays.md)
+  - [Applying patches](./04_02_Kustomize_Patches.md)
+- [Deploying our App](./05_00_Deploying.md)
+  - [Creating a Job](./05_01_Deploying_Job.md)
+  - [Adding storage to DB](./05_02_Deploying_Storage.md)
+  - [Deploying on microk8s](./05_03_Deploying_microk8s.md)
+- [A final word](./06_00_Final_word.md)
+  - [Additional Resources](./06_01_Final_additional.md)
