@@ -33,3 +33,5 @@ This guide is written in an open-collaborative form, via the GitHub platform [k8
 - We will further look into how to deploy these changes to your Kubernetes clusters.
 - As we progress and you get a fair idea of how deployments are done locally, we will demonstrate how to deploy to a local K8s cluster.
 - At this point, we would have covered the deployment steps but there are some times when deployment doesn't go as planned so we will look at how to effectively debug applications using different `kubectl` commands.
+
+You can checkout the source code for all the manifests used in this guide [here](https://github.com/mr-karan/listmonk-infra).

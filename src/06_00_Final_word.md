@@ -6,4 +6,6 @@ Check out the [Additional Resources](./06_01_Final_additional.md) section to fin
 
 This guide will be continuously updated to add more resources and tutorials to help make migration to Kubernetes seamless. If you're interested in contributing, head over to [mr-karan/k8s-deployment-book](https://github.com/mr-karan/k8s-deployment-book) and propose changes by sending PRs/Issues.
 
+You can checkout the source code for all the manifests used in this guide [here](https://github.com/mr-karan/listmonk-infra).
+
 Thanks for reading till here.
