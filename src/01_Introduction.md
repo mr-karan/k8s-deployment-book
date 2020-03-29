@@ -2,8 +2,6 @@
 
 [Kubernetes](https://www.rust-lang.org) has been growing in popularity to orchestrate deployments using containers. While there are a lot of good tutorials and writing material available on how what is Kubernetes or how the internal work, this guide is primarily aimed towards developers who want to get their application up and running on a Kubernetes cluster and further extending the same approach to handle production deployments.
 
-In this guide, we'll talk about how to deploy a real-world OSS application on Kubernetes including all the ancillary components (database, etc). We'll talk about how to organize the manifests, performing deployments to local cluster, using GitOps methodology, create resource manifests for multiple environments & managing application configs and secrets. These tasks cover the majority of real-world use-cases that will be helpful once you decide to go in _production_.
-
 In this guide, we'll talk about how to deploy a real-world OSS application [listmonk](https://listmonk.app/) on Kubernetes which is an open-source + self-hosted mailing list manager to send campaigns/newsletters. While deploying the application on the K8s cluster, we will develop a basic foundation that would help you to get started with Kubernetes. Some of the broader topics we'll learn:
 
 - Building containers and deploying in a local cluster
