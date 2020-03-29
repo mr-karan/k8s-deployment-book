@@ -1,6 +1,10 @@
 # k8s-deployment-book
 
-Source code for my mini guide on how to deploy on Kubernetes cluster **locally** for developers.
+> Source code for my mini guide on how to deploy on Kubernetes cluster **locally** for developers.
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/a57cc5c4-27ae-4095-a871-4b05ca057eba/deploy-status)](https://app.netlify.com/sites/affectionate-northcutt-34a625/deploys)
+
+**Read Online**: [https://k8s-book.mrkaran.dev](https://k8s-book.mrkaran.dev/)
 
 ## Contribution
 
