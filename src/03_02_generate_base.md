@@ -29,4 +29,4 @@ Inside `base` a folder for each **workspace** is created. As mentioned earlier, 
 
 > **NOTE**: Remember to not edit these files by hand, as the next time you run `scaffold` on kubekutr, the changes will be overwritten.
 
-Now we have the base manifests ready, but we still need to bring `kustomize` in our toolchain to make use of this. So let's learn more about Kustomize in the next [section](./04_Kustomize.md).
+Now we have the base manifests ready, but we still need to bring `kustomize` in our toolchain to make use of this. So let's learn more about Kustomize in the next [section](./04_00_Kustomize.md).
